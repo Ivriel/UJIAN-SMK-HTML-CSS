@@ -1,0 +1,30 @@
+.th-biru {
+    background-color: rgb(37, 99, 255);
+    color: white;
+}
+.hari {
+    width: 100px;
+}
+img {
+    width: 200px;
+    height: 200px;
+}
+.green {
+    background-color: green;
+}
+.blue {
+    background-color: rgb(37, 99, 255);
+}
+.kuning {
+    background-color: yellow;
+}
+.kuning-th {
+    background-color: yellow;
+    width: 110px;
+}
+.akhir {
+    width: 70px;
+}
+.mulai {
+    width: 70px;
+}
